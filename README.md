@@ -1,0 +1,1 @@
+This is a regression model using random forests to detect salary based on position. In this specific case, we were able to detect with greater precision compared to the model that uses decision trees.
